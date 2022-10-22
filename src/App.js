@@ -21,7 +21,7 @@ export default function App () {
                     <Route path="/search" element = {<Search />} />
                     <Route path="/contact" element = {<Contact />} /> */}
                 </Routes> 
-                    adfksjdfmd
+                   helşnnnn
                 {/* <Footer /> */}
             </Router>
         </>

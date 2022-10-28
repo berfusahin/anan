@@ -14,15 +14,15 @@ export default function App () {
     return (
         <>
             <Router> 
-                {/* <Header /> */}
+                <Header />
 
                 <Routes>
-                    {/* <Route path="/" exact element = {<Home />} />
-                    <Route path="/search" element = {<Search />} />
-                    <Route path="/contact" element = {<Contact />} /> */}
+                    <Route path="/" exact element = {<Home />} />
+                    {/* <Route path="/search" element = {<Search />} /> */}
+                    {/* <Route path="/contact" element = {<Contact />} /> */}
                 </Routes> 
-                  
-                {/* <Footer /> */}
+
+                <Footer />
             </Router>
         </>
     )
